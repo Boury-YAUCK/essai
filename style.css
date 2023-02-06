@@ -1,0 +1,37 @@
+body{
+	background: darkblue;
+}
+.glob{
+	width: 100%;
+}
+p{
+	text-align: center;
+}
+.contain{
+	width: 35%;
+	background: brown;
+	margin: auto;
+	color: white;
+	height: 300px;
+	padding:70px 0px 70px 0px;
+	border-radius: 15px;
+}
+#form{
+	width: 45%;
+	height: 300px;
+	background: darkblue;
+	margin: auto;
+	align-items: center;
+
+}
+form{
+	padding: 20px;
+}
+button{
+	border-radius: 5px;
+	border-color: white;
+}
+input{
+	border-radius: 5px;
+	border-color: white;
+}
